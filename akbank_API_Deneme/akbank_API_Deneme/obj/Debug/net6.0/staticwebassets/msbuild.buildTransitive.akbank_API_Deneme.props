@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\akbank_API_Deneme.props" />
+</Project>
